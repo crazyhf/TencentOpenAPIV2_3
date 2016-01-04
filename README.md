@@ -1,0 +1,2 @@
+# TencentOpenAPIV2_3
+需要用到TencentOpenAPI的v2.3版本，所以做了一个pod上来，同时删除了bundle里面的plist，解决ipa包上传错误问题
