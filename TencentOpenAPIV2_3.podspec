@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    This pod is used who want to use tencentOpenAPI v2.3 with podfile.
                    DESC
-  s.author       = { 'crazylhf' => 'crazylhf@gmail.com' }
+  s.author       = 'http://open.qq.com'
   s.homepage     = 'http://open.qq.com'
   s.license      = {
       :type => 'LGPL',
