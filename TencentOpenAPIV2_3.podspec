@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'TencentOpenAPIV2_3'
-  s.version      = '2.3'
+  s.version      = '3.1.0'
   s.summary      = 'TencentOpenAPI v2.3'
   s.description  = <<-DESC
                    This pod is used who want to use tencentOpenAPI v2.3 with podfile.
