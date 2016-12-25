@@ -16,6 +16,8 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => 'https://github.com/crazyhf/TencentOpenAPIV2_3.git', :tag => 'v#{spec.version}' }
 
+  s.source_files   = "TencentOpenAPI/TencentOpenAPI.framework/Headers/**/*.h"
+  
   s.resources = "TencentOpenAPI/TencentOpenApi_IOS_Bundle.bundle"
   s.vendored_frameworks = 'TencentOpenAPI/TencentOpenAPI.framework'
   s.public_header_files = "TencentOpenAPI/TencentOpenAPI.framework/Headers/**/*.h"
